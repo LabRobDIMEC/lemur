@@ -15,6 +15,5 @@ Este taller introductorio aborda el diseño de mecanismos para una pata robótic
 
 ## Material de apoyo
 
-- Presentación
-- Github
+- [Github](https://github.com/LabRobDIMEC/ICRA_LA_CHILE_HO1a/tree/main)
 
