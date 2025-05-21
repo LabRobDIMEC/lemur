@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Robótica Blanda",
+    "description": "Línea de investigación",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 40,
+      "height": 40
+    }
+  },
+  {
+    "title": "Manipuladores Robóticos",
+    "description": "Línea de investigación",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 40,
+      "height": 40
+    }
+  },
+  {
+    "title": "Diseño Mecánico",
+    "description": "Línea de investigación",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 40,
+      "height": 40
+    }
+  }
+]

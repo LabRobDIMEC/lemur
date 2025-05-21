@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Github",
+    "link": "https://github.com/LabRobDIMEC",
+    "image": "images/social/github.svg"
+  },
+  {
+   
+      "name": "Email",
+      "link": "lemur.uchile@gmail.com ",
+      "image": "images/social/email.svg"
+  },
+  {
+      "name": "Instagram",
+      "link": "https://instagram.com",
+      "image": "images/social/instagram.svg"
+  }
+
+]

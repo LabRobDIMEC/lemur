@@ -1,0 +1,18 @@
+main:
+  - name: "Actividades y Proyectos"
+    url: "/services/"
+    weight: 2
+  - name: "Equipo"
+    url: "/team/"
+    weight: 3
+  - name: "Investigación"
+    url: "/about/"
+    weight: 4
+
+footer:
+  - name: "Inicio"
+    url: "/"
+    weight: 1
+  - name: "Contacto"
+    url: "/contact/"
+    weight: 2

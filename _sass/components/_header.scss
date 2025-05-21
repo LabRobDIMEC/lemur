@@ -1,0 +1,22 @@
+.header {
+  color: #420ADD; 
+  font-family: $font-family-heading; 
+  background-color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid $white-offset;
+  padding: 10px 0px;
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  &.header-absolute {
+    position: absolute;
+    z-index: 10;
+    width: 100%;
+  }
+}

@@ -1,0 +1,105 @@
+---
+layout: default
+bodyClass: "page-home"
+---
+
+<div class="intro">
+  <div class="container">
+    <div class="row justify-content-start">
+      <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+        {{ content }}
+        
+      </div>
+      {% if page.intro_image %}
+      <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
+        <img alt="{{ page.title }}" class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.intro_image | relURL }}" />
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+{% if site.data.features %}
+<div class="strip strip-grey">
+  <div class="container pt-3 pb-3 pt-md-3 pb-md-3">
+    <div class="research-rotator text-center">
+      <h2>Líneas de investigación</h2>
+    <div class="rotating-word fade-in">🐙 Robótica Blanda</div>
+    </div>
+  </div>
+</div>
+{% endif %}
+
+
+<div class="strip">
+  <div class="container pt-6 pb-6 pb-md-10">
+    <div class="row justify-content-start">
+      <h2 class="section-title">ACTIVIDADES</h2>
+      {% assign limit = site.home.limit_services | default: 6 %}
+      {% for service in site.services limit: limit %}
+      <div class="col-12 col-md-4 mb-1">
+        <div class="service service-summary">
+          <div class="service-content">
+            <h2 class="service-title">
+              <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+            </h2>
+            <p>{{ service.excerpt | markdownify | strip_html | truncate: 100 }}</p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-auto">
+        <a class="button button-primary" href="{{ "services" | relative_url }}">Ver Actividades</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="strip">
+  <div class="container pt-6 pb-6 pb-md-10">
+    <div class="row justify-content-start">
+      <h2 class="section-title">EQUIPO</h2>
+      {% assign profesores = site.team | where: "category", "profesor" | sort: "weight" | slice: 0, 4 %}
+      {% for member in profesores %}
+      <div class="col-12 col-md-3 mb-1">
+        <div class="service service-summary text-center">
+          <div class="service-content">
+  <img src="{{ member.image | relative_url }}" alt="{{ member.title }}" style="width: 120px; border-radius: 50%; margin-bottom: 10px;">
+  <h2 class="service-title">{{ member.title }}</h2>
+  <p>{{ member.jobtitle }}</p>
+  
+  <div class="team-links mt-2">
+    {% if member.linkedinurl %}
+      <a href="{{ member.linkedinurl }}" target="_blank" aria-label="LinkedIn">
+        <i class="fab fa-linkedin fa-lg"></i>
+      </a>
+    {% endif %}
+    {% if member.githuburl %}
+      <a href="{{ member.githuburl }}" target="_blank" aria-label="GitHub">
+        <i class="fab fa-github fa-lg"></i>
+      </a>
+    {% endif %}
+    {% if member.blogurl %}
+      <a href="{{ member.blogurl }}" target="_blank" aria-label="Blog">
+        <i class="fas fa-globe fa-lg"></i>
+      </a>
+    {% endif %}
+  </div>
+</div>
+
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-auto">
+        <a class="button button-primary" href="{{ '/team/' | relative_url }}">Equipo LEMUR </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
