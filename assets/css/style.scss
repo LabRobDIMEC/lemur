@@ -224,7 +224,7 @@ h1, h2, h3 {
 
 
 body.page {
-  padding-top: 5rem;
+  padding-top: 4rem;
 
   @include media-breakpoint-down(md) {
     padding-top: 6rem;
@@ -236,7 +236,7 @@ body.page {
 }
 
 #wrapper {
-  padding-top: 5rem;
+  padding-top: 5 rem;
 
   @include media-breakpoint-down(md) {
     padding-top: 6.5rem;
