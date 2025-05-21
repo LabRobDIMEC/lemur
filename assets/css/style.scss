@@ -224,10 +224,10 @@ h1, h2, h3 {
 
 
 body.page {
-  padding-top: 4rem;
+  padding-top: 3rem;
 
   @include media-breakpoint-down(md) {
-    padding-top: 6rem;
+    padding-top: 3rem;
   }
 
   @include media-breakpoint-down(sm) {
@@ -236,7 +236,7 @@ body.page {
 }
 
 #wrapper {
-  padding-top: 5 rem;
+  padding-top: 5rem;
 
   @include media-breakpoint-down(md) {
     padding-top: 6.5rem;

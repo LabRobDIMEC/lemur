@@ -5,7 +5,7 @@ description: About
 bodyClass: page-about
 ---
 
-# Propuesta de Tesis
+
 
 Próximamente se invitará a desarrollar temas de investigación para pre-grado.
 
