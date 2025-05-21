@@ -222,3 +222,23 @@ h1, h2, h3 {
   color: $primary;
 }
 
+
+body.page {
+  padding-top: 5rem;
+
+  @include media-breakpoint-down(md) {
+    padding-top: 6rem;
+  }
+
+  @include media-breakpoint-down(sm) {
+    padding-top: 6.5rem;
+  }
+}
+
+#wrapper {
+  padding-top: 5rem;
+
+  @include media-breakpoint-down(md) {
+    padding-top: 6.5rem;
+  }
+}
