@@ -21,7 +21,7 @@ bodyClass: "page-home"
 
 {% if site.data.features %}
 <div class="strip strip-grey">
-  <div class="container pt-3 pb-3 pt-md-3 pb-md-3">
+  <div class="container pt-12 pb-3 pt-md-3 pb-md-3">
     <div class="research-rotator text-center">
       <h2>Líneas de investigación</h2>
     <div class="rotating-word fade-in">🐙 Robótica Blanda</div>
@@ -86,6 +86,12 @@ bodyClass: "page-home"
         <i class="fas fa-globe fa-lg"></i>
       </a>
     {% endif %}
+    {% if member.email %}
+      <a href="mailto:{{ member.email }}" target="_blank" aria-label="Correo">
+        <i class="fas fa-envelope fa-lg"></i>
+      </a>
+    {% endif %}
+
   </div>
 </div>
 

@@ -5,9 +5,16 @@ image: "images/team/ruben-f.jpg"
 jobtitle: "Profesor - Investigador"
 category: profesor
 promoted: true
-linkedinurl: "https://www.linkedin.com/"
-githuburl: "https://github.com/haroldv"
+linkedinurl: 
+githuburl: 
+email: "rufernan@uchile.cl "
 weight: 1
 ---
 
 Líneas de investigación: Manufactura, Diseño Mecánico
+
+<!--more-->
+
+# Líneas de investigación: 
+    * Manufactura
+    * Diseño Mecánico

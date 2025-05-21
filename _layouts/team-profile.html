@@ -27,11 +27,19 @@ layout: default
             <i class="fas fa-globe fa-lg"></i> Blog
           </a><br>
         {% endif %}
+
+        {% if page.email %}
+          <a href="mailto:{{ page.email }}" target="_blank" aria-label="Correo">
+            <i class="fas fa-envelope fa-lg"></i> Correo
+          </a>
+        {% endif %}
+
       </div>
     </div>
     <div class="col-12 col-md-8">
       <div class="team-content">
-        {{ content }}
+        {{ content | remove: page.excerpt }}
+
       </div>
     </div>
   </div>

@@ -7,7 +7,7 @@
   left: 0;
   width: 100%;
   z-index: 999;
-  background-color: white; 
+  background-color: #EFEEEC; 
   box-shadow: 0 2px 6px rgba(255, 251, 249, 0.638); 
 
 }
@@ -21,13 +21,13 @@ $secondary: #9D8DFC;
 $black: #000000;
 $white: #ffffff;
 $white-offset: #EFEEEC;
-$steel: #565049;
-$cyan: #38aebb;
+$steel: #2a2a2df1;
+$purple: #313eb5;
 
 
 
 // Links
-$link-color: $cyan;
+$link-color: $secondary;
 $link-decoration: none;
 $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
@@ -37,9 +37,9 @@ $font-family-base: "AlbertSans", Helvetica, Arial, "AlbertSans", -apple-system;
 $font-family-heading: "Jura", Arial, -apple-system;
 
 // Footer
-$footer-background-color: $primary;
+$footer-background-color: $secondary;
 $footer-text-color: $white;
-$sub-footer-background-color: darken($primary, 10%);
+$sub-footer-background-color: darken($secondary, 10%);
 $sub-footer-text-color: $white;
 
 // Bootstrap 5.3.2
@@ -141,7 +141,7 @@ h1, h2, h3 {
 
 .team-profesor {
   border-left: 8px solid $cyan;
-  background-color: #cbcbc8;
+  background-color: #9c9c97;
 }
 
 .team-estudiante {
@@ -212,7 +212,13 @@ h1, h2, h3 {
   border-bottom: 2px solid $primary;
 }
 
+.main-menu li {
+  margin-right: 1.5rem;
+}
+
+
 .page-title {
   font-family: $font-family-heading;
   color: $primary;
 }
+

@@ -7,3 +7,9 @@ promoted: false
 linkedinurl: ""
 weight: 15
 ---
+
+<!--more-->
+
+# Participación en Cursos
+
+    * Ayudante : ME5150 Robótica

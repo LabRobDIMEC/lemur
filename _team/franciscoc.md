@@ -1,11 +1,18 @@
 ---
+layout: team-profile
 title: "Francisco Cáceres"
 image: "images/team/francisco-c.jpg"
 jobtitle: "Auxiliar - Curso Mecatrónica"
 category: estudiante
 promoted: true
-linkedinurl: ""
+linkedinurl: 
 githuburl: "https://github.com/Panxouu"
+email: "franciscocv8@gmail.com"
 weight: 5
 ---
-Tesista
+<!--more-->
+
+# Participación en Cursos
+
+    * Auxiliar : ME4250 Mecatrónica
+    * Ayudante : ME5150 Robótica
