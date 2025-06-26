@@ -2,7 +2,7 @@
 layout: team-profile
 title: "Francisco Cáceres"
 image: "images/team/francisco-c.jpg"
-jobtitle: "Auxiliar - Curso Mecatrónica"
+jobtitle: "Auxiliar - Curso Mecatrónica | Tesista"
 category: estudiante
 promoted: true
 linkedinurl: 
