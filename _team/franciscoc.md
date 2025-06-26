@@ -13,6 +13,9 @@ weight: 5
 <!--more-->
 
 # Participación en Cursos
-
+    
     * Auxiliar : ME4250 Mecatrónica
     * Ayudante : ME5150 Robótica
+
+# Investigación
+    * Tesista Ingeniería Mecánica

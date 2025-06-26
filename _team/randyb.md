@@ -1,9 +1,9 @@
 ---
 title: "Randy Bartolo"
-image: "images/team/generico-M.jpg"
+image: "images/team/Randy-b.jpg"
 jobtitle: "Ayudante - Curso Mecatrónica"
 category: estudiante
 promoted: false
-linkedinurl: ""
-weight: 18
+email: "randybartolocastaneda@gmail.com"
+weight: 11
 ---
