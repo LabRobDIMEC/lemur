@@ -1,6 +1,6 @@
 ---
 title: "Katerin Vásquez"
-image: "images/team/katerin.jpg"
+image: "images/team/Katerin.jpg"
 jobtitle: ""
 category: estudiante
 promoted: false
