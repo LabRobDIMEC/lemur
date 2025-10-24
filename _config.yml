@@ -1,7 +1,9 @@
-baseurl: "/lemur"
-url: "https://LabRobDIMEC.github.io"
+url: "https://laboratoriolemur.cl"
+baseurl: ""
 permalink: pretty
 title: 'LEMUR'
+
+
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
