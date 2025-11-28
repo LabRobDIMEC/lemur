@@ -9,12 +9,12 @@ IEEE RAS
 <img src="{{ '/images/global-sr.png' | relative_url }}" style="float:right; margin-left:20px; width:350px;">
 
 
-Este año, el LEMUR Lab será sede oficial del Global Soft Robotics Day, un evento internacional que recorre el mundo durante 24 horas mostrando lo más innovador en robótica blanda.
+Este año, nuestro laboratorio LEMUR será sede oficial del Global Soft Robotics Day, un evento internacional que recorre el mundo durante 24 horas mostrando lo más innovador en robótica blanda.
 
 Desde Chile nos sumamos con una jornada híbrida que incluye:
 
 Transmisión del bloque global con speakers internacionales.
-Exposición en español de investigadoras/es chilenos.
+Exposición en español de investigadoras/es.
 Coffee break y networking para conversar sobre nuevas ideas.
 
 Es una oportunidad única para conocer qué está pasando en robótica blanda a nivel mundial, conectar con la comunidad y mostrar el trabajo que realizamos en nuestro laboratorio.
