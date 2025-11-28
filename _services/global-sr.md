@@ -13,11 +13,11 @@ Este año, nuestro laboratorio LEMUR será sede oficial del Global Soft Robotics
 
 Desde Chile nos sumamos con una jornada híbrida que incluye:
 
-Transmisión del bloque global con speakers internacionales.
+Transmisión del bloque global America con speakers internacionales.
 Exposición en español de investigadoras/es.
 Coffee break y networking para conversar sobre nuevas ideas.
 
-Es una oportunidad única para conocer qué está pasando en robótica blanda a nivel mundial, conectar con la comunidad y mostrar el trabajo que realizamos en nuestro laboratorio.
+Es una oportunidad para conocer qué está pasando en robótica blanda a nivel mundial, conectar con la comunidad y mostrar el trabajo que se está desarrollando en Chile.
 
 - Lugar: Universidad de Chile, FCFM. Beuchef 851
 + Hora: 10: 00 - 18:00 
