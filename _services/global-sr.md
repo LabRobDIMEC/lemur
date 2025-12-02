@@ -20,10 +20,10 @@ Coffee break y networking para conversar sobre nuevas ideas.
 Es una oportunidad para conocer qué está pasando en robótica blanda a nivel mundial, conectar con la comunidad y mostrar el trabajo que se está desarrollando en Chile.
 
 - Lugar: Universidad de Chile, FCFM. Beuchef 851
-+ Hora: 10: 00 - 18:00 
++ Hora: 11: 00 - 16:00 
 + Fecha: 5 de diciembre del 2025
 + Evento gratuito
 
 ## Registro
 
-- [Formulario](https://docs.google.com/forms/d/e/1FAIpQLSe-Ov-QJFFqKvrodyaj568-3PcS1Ba4_by-OPrMNMGSLRJg2Q/viewform)
+[Formulario](https://docs.google.com/forms/d/e/1FAIpQLSe-Ov-QJFFqKvrodyaj568-3PcS1Ba4_by-OPrMNMGSLRJg2Q/viewform)
