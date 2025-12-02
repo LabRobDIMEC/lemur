@@ -22,7 +22,7 @@ Es una oportunidad para conocer qué está pasando en robótica blanda a nivel m
 - Lugar: Universidad de Chile, FCFM. Beuchef 851
 + Hora: 11: 00 - 16:00 
 + Fecha: 5 de diciembre del 2025
-+ Evento gratuito
++ Evento gratuito con inscripción
 
 ## Registro
 
