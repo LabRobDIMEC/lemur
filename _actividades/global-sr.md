@@ -56,7 +56,7 @@ Beauchef 851, Santiago
   <tbody>
     <tr>
       <td>11:00 – 11:30</td>
-      <td>COFFEE BREAK</td>
+      <td>COFFEE BREAK + Registro</td>
     </tr>
     <tr>
       <td>11:30 – 11:40</td>
