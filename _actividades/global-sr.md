@@ -88,7 +88,7 @@ Beauchef 851, Santiago
     </tr>
     <tr>
       <td>14:30 – 15:00</td>
-      <td>Speaker Global: Stefan Grevé (USACH)</td>
+      <td>Speaker Global: Stefan Greve (USACH)</td>
     </tr>
     <tr>
       <td>15:00 – 15:30</td>
