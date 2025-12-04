@@ -1,6 +1,6 @@
 main:
   - name: "Actividades y Proyectos"
-    url: "/services/"
+    url: "/actividades/"
     weight: 2
   - name: "Equipo"
     url: "/team/"

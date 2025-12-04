@@ -2,6 +2,7 @@
 title: "Hands-on 1a: Planar Subactuated Locomotion Mechanism for a Quadruped Robot Leg"
 date: 21 de mayo 2025
 weight: 1
+layout: actividad
 ---
 IEEE RAS ICRA 2025 LA@Chile Satellite
 

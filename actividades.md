@@ -1,6 +1,6 @@
 ---
 title: Actividades
-layout: services
+layout: actividades
 description: Services
 intro_image: 
 intro_image_absolute: true
